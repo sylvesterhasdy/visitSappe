@@ -1,0 +1,67 @@
+.jarakbut{
+	margin-left:20%;
+}
+.jarakbut5a{
+	margin-left:20%;
+	margin-top:3%;
+}
+.jartroub{
+	margin-top:35%;
+}
+.jarakbutticket{
+	margin-top:15%;
+}
+.jarakbut3a{
+	margin-left:20%;
+	margin-top:3%;
+}
+.jarakbut11b{
+	margin-left:20%;
+	margin-top:3%;
+}
+.jaraksub{
+	margin-left:90%;
+	margin-top:5%;
+}
+.jarak2atab{
+	margin-top:2%;
+}
+.jaraktab{
+	margin-top:3%;
+}
+.jarakform{
+	margin-left:20%;
+	margin-top:5%;
+}
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+}
+.butprint{
+	margin-left:87%;
+}
+.jaraktop{
+	margin-bottom:2%;
+}
+.jarbutbot{
+	margin-left:20%;
+	margin-top:1%;
+}
+.jartabsoft{
+	margin-top:20%;
+}
+#scrolling tbody {
+clear: both;
+border: 1px solid #FF6600;
+height: 100%;
+overflow:auto;
+float:left;
+width:100%;
+}
